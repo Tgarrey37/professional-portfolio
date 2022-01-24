@@ -12,4 +12,4 @@ This webpage displays my Professional Portfolio! On my Portfolio you can see the
 
 [Github Repo](https://github.com/Tgarrey37/employee-tracker)
 
-[Portfolio]()
+[Portfolio](https://tgarrey37.github.io/professional-portfolio/)
